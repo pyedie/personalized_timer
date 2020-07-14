@@ -22,6 +22,7 @@ You can submit a feature with [GitHub](https://github.com/) or with Discord : Ma
 ### Todos
 
  - Add a Sound when the timer is finish
+ - Option to activate a bip sound every second
  - Maybe your feature ?
 
 License
